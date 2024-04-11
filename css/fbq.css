@@ -1,0 +1,51 @@
+form {
+    width: 400px;
+    background-color: rgb(235, 235, 235);
+    padding: 20px;
+    margin-left: 500px;
+    margin-top: 70px;
+    border: 2px solid black;
+    border-radius: 0.5rem;
+    
+    
+  }
+input[type=submit] {
+    background-color: rgb(7, 7, 7);
+    color: rgb(255, 255, 255);
+    padding: 10px 15px;
+    margin-left: 2rem;
+    border: none;
+    border-radius: 0.5rem;
+    cursor: pointer;
+  }
+   h3{
+   align-items: start; 
+  }
+  input[type=text]{
+  margin-left: 2.5rem;
+ padding-right: 6rem;
+
+  }
+  .sk{
+    padding-right: 8rem;
+    margin-left: 2rem;
+  
+}
+label{
+  margin-left: 2.5rem;
+}
+input[type=radio]{
+  margin-left: 4rem;
+}
+#pm{
+  border: 0.3px solid rgb(188, 203, 203);
+  border-radius: 0.2rem;
+
+  
+}
+#pm:hover{
+border:2px solid;
+border-top: none;
+  border-left: none;
+  border-right: none;
+}

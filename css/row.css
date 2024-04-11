@@ -1,0 +1,48 @@
+.card{
+
+    margin: 5PX 0PX 0PX 0PX ;
+} 
+#dd{
+    text-align: end;
+color: rgb(56, 8, 230);
+ margin-top: 1rem;
+ text-decoration: none;
+
+
+
+
+}
+.card-body{
+    border: 1px solid rgb(0, 1, 8);
+    position: relative;
+    background-color: rgb(241, 248, 246);
+    padding:0.5rem 2rem;
+    
+}
+.ab{
+    max-height: 485px;
+    width: 100%;
+    min-height: 200px;
+ 
+}
+.card-title{
+    text-align:right;
+}
+.card-category{
+    color: #000;
+    text-align: start;
+    
+    
+   }
+.card-date{
+    text-align:left;
+    padding-bottom:0.5rem ;
+}
+.card-title{
+    text-align: left;
+    padding-bottom:0.5rem ;
+}
+#cl{
+    margin-top: 3rem;
+    margin-bottom: 1rem;
+}

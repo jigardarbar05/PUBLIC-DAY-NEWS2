@@ -1,0 +1,42 @@
+@import "bourbon";
+
+ body {
+	background: #eee !important;	
+}
+
+.wrapper {	
+  margin-top: 10rem;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+
+}
+.form-signin{
+	width: 30rem;
+	height: auto;
+	border: 3px solid black;
+	padding: 1.5rem;
+	border-radius: 1rem;
+	border: auto;
+}
+.form-control{
+	padding: 0.5rem;
+	border-radius: 0.6rem;
+}
+.form-control:hover{
+	border-bottom: 2px solid black;
+}
+.form-1{
+	padding: 0.8rem;
+}
+.bo{
+	
+border-radius: 1rem;
+}
+.btn .btn-dark{
+	border-radius: 5rem;
+
+}
+.acc{
+	margin-left: 5rem;
+}

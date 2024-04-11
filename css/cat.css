@@ -1,0 +1,54 @@
+.card-body{
+    border: 1px solid rgb(0, 1, 8);
+    position: relative;
+    background-color: rgb(241, 248, 246);
+    padding:0.5rem 2rem;
+    
+}
+.ab{
+    max-height: 250px;
+    width: 100%;
+    min-height: 200px;
+ 
+}
+.card-title{
+    text-align:right;
+}
+.card-category{
+    color: #000;
+    text-align: start;
+    
+    
+   }
+.card-date{
+    text-align:left;
+}
+.card-title{
+    text-align: left;
+}
+
+#aa{
+   
+    text-align:center;
+    color: blue;
+}
+.active{
+    background-color: rgb(192, 184, 184);
+color: rgb(244, 238, 238);
+border-radius: 0.2rem;
+}
+#aj{
+    color:rgba(25, 35, 25, 0.879);
+    font-size: 20px;
+    text-decoration: none;
+     text-align: start;
+     margin:0.8rem;
+     
+}
+#md{
+    margin-top: 2rem;
+    margin-bottom: 1rem;
+}
+.mp{
+    margin-top: 1rem;
+}

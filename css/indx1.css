@@ -1,0 +1,36 @@
+.co{
+ margin-left: 1.5rem;
+ margin-top:0.5rem;
+ 
+}
+#bj{
+    color: rgba(25, 35, 25, 0.879);
+    font-size: 20px;
+    text-decoration: none;
+    padding: 10px;
+}
+.card-body {
+    position: relative;
+    flex: 1 1 auto;
+    padding: 0rem 0rem;
+    margin: 10px;
+}
+.card-category{
+    text-align: start;
+}
+.card-title{
+    text-align: start;
+}
+.desc.card-title{
+    text-align: start;
+}
+.date.card-title{
+    text-align: start;
+}
+.btn-primary{
+  
+    text-underline-offset:none;
+}
+/* .img{
+    margin: 0.3rem;
+} */

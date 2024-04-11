@@ -1,0 +1,55 @@
+ .pro {
+    width: 100%;
+    max-height: 290PX;
+    min-height: 100PX;
+    margin: 0px;
+    margin-top: 0%;
+    border-radius: 0.5rem;
+    box-shadow: rgba(0, 0, 0, 0.4) 0px 2px 4px, rgba(0, 0, 0, 0.3) 0px 7px 13px -3px, rgba(0, 0, 0, 0.2) 0px -3px 0px inset;
+}
+img, svg {
+    vertical-align: middle;
+ }
+ .card{
+
+    margin: 5PX 0PX 0PX 0PX ;
+} 
+.card-title{
+    text-align:start;
+    margin-left: 0.3rem;
+}
+.hhh{
+    margin-top:2rem;
+   text-align: center;
+    border: solid;
+    position: relative;
+    border-radius: 10rem;
+} 
+.card-category{
+    margin-top:0.5rem;
+    color: rgb(0, 3, 1);
+    align-items: start;
+    margin-left: 0.3rem;
+   }
+.card-date{
+    text-align:start;
+    margin-top: 0.5rem;
+    margin-left: 0.3rem;
+  
+}
+
+#ie{
+color: blue;
+align-items:end;
+margin-left: 13rem;
+text-decoration: none;
+}
+#dj{
+  border: 0px solid black;  
+  border-radius:0.5rem ;
+}
+.card-desc{
+    margin-left: 0.3rem;
+}
+
+   

@@ -1,0 +1,65 @@
+img, svg {
+    vertical-align: middle;
+ }
+
+.btn-primary{
+   
+    margin-left: 11.5rem; 
+ }
+ .card-category{
+ font-size: large;
+    text-align: left;
+    margin-left: 1rem;
+
+}
+
+
+/* .btn:hover
+{ margin-top: 0rem;
+    background-color:rgb(222, 200, 4);
+
+} */
+ 
+.card-title{
+    text-align: start;
+    margin-left: 1rem;
+}
+
+#bj{
+    color:rgba(25, 35, 25, 0.879);
+    font-size: 20px;
+    text-decoration: none;
+     text-align: start;
+     margin:0.4rem;
+  
+     
+}
+/* .container {
+   
+    margin: 5px 5px 5px 5px;
+} */
+#ccc{
+    margin-left: 3.3rem;
+    margin-top: 1rem;
+}
+.card-body {
+    flex: 1 1 auto;
+    padding: 0.5rem 0rem;
+}
+.card-desc{
+    margin-left: 1rem;
+}
+.card-date{
+    margin-left: 1rem;
+    margin-bottom: 0.5rem;
+}
+/* .container, .container-lg, .container-md, .container-sm, .container-xl {
+    max-width: 1400px;
+} */
+.container, .container-lg, .container-md, .container-sm {
+    max-width: 1399px;
+   }
+   #xx{
+    margin-left:3rem ;
+   }
+   

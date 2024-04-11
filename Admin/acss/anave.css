@@ -1,0 +1,71 @@
+
+ .sasa
+{
+width:60%;
+margin: 0.0px;
+margin-top: 0%;
+}
+ 
+@media(max-width:750px)
+{
+    
+}
+.navbar-light .navbar-toggler {
+    color: rgb(12 12 12 / 95%);
+    border-color: rgba(31, 7, 121, 0.1);
+    background-color:rgb(193, 224, 224);
+}
+
+.bg-light {
+    background-color:rgb(235, 235, 239)!important;
+}
+.navbar-light .navbar-nav .nav-link {
+    color: rgb(8, 6, 6);
+}
+.nav-link {
+    display: block;
+    padding: 0.5rem 1rem;
+    color: #4626face;
+    text-decoration: none;
+    transition: color .15s ease-in-out,background-color .15s ease-in-out,border-color .15s ease-in-out;
+}
+.ms-auto {
+
+    margin-left: auto!important;
+}
+.navbar {
+    position: relative;
+    display: flex;
+    flex-wrap: wrap;
+    align-items: center;
+    justify-content: space-between;
+    padding-top: 0.1rem;
+    padding-bottom:0.1rem;
+}
+.card-body {
+   position: relative;
+    text-align: center;
+
+    body{
+    
+        max-width: 180px;
+        width: 100%;
+        width: auto;
+    }
+}
+.text-more{
+    display: none;
+}
+.btn-info{
+    margin-left:900px;
+    margin-top: 2rem;
+} 
+.abc{
+        margin: 10px 30px 30px 30px;
+        height: 10px;
+        text-size-adjust: 10rem;
+     }
+     .bi{
+        height: 110px;
+     }
+    

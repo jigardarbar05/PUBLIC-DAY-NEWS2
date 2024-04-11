@@ -1,0 +1,132 @@
+ body {
+   
+ 
+    background: -webkit-linear-gradient(to right, #cfd6d9, #67B26F);
+    background: linear-gradient(to right, #bac3cf, #e4f5f5fd); 
+ 
+    font-family: 'Lato', sans-serif; 
+    
+     color: #000; 
+} 
+.student-profile .card p {
+    font-size: 16px;
+    color: #000;
+    
+    
+}
+
+.student-profile .table th,
+.student-profile .table td {
+    font-size: 18px;
+    font: bold;
+    padding: 5px 10px;
+    color: #000;
+
+}
+.pr-1
+{
+    padding-left:10px;
+    border-radius: 100px;
+    
+}
+.card-body{
+    padding:0.1% 5% 0% 5%;
+    width: 100%;
+    background-color:#f3f4fe;
+    
+  
+}
+.table{
+    align-items: center;
+    text-align: center;
+    /* border: 10px; */
+    /* height: 1px; */
+    border-radius: 0rem;
+    
+   
+
+}
+h1{
+    margin-left:45%;
+}
+.rt-container{
+    margin-left: 15%;
+    margin-top: 5%;
+    
+    
+}
+.bg-transparent {
+    background-color:#a8a9b3;
+}
+.card shadow{
+    border-radius: 50px;
+}
+ /* update form */
+ .form-signin {
+    width: 30rem;
+   height: auto;
+    border: 1px solid rgb(20, 18, 18);
+    padding: 2rem;
+    border-radius: 1rem;
+  }
+
+.form-control{
+	padding: 0.5rem;
+	border-radius: 0.6rem;
+}
+.form-control:hover{
+	border-bottom: 2px solid black;
+}
+.form-1{
+	padding: 0.3rem;
+}
+.btn-1{
+	padding: 1rem;
+	padding-left: 4.9rem;
+  margin: 0px !important;
+}
+.b-1{
+	color: black;
+	border-radius: 0.4rem;
+}
+.b-1:hover{
+	transform: scale(1.1);
+}
+.crete-a{
+	padding-left: 1rem;
+	font-size: 1.2rem;
+}
+.name{
+    padding: 0.1rem;
+    padding-left: 0.8rem;
+   
+}
+.f{
+    padding-left: 1rem;
+}
+.error{
+  color: brown;
+}
+.bbb{
+    margin-left:1rem;
+}
+.bi{
+    color: rgb(4, 64, 147);
+
+    font-size:larger;
+}
+
+
+.pic{
+    
+    width: 150px;
+    height: 150px;
+    object-fit: cover;
+    margin: 10px auto;
+    border: 2px solid #141414;
+    border-radius: 50%;
+}
+.bold{
+    font: bold;
+   
+}
